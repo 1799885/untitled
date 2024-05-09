@@ -10,15 +10,5 @@
         "README.md",
         "assets.json"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
-    "targetVersions": {
-        "target": "1.12.51",
-        "targetId": "arcade"
-    },
-    "supportedTargets": [
-        "arcade"
-    ],
     "preferredEditor": "tsprj"
 }
